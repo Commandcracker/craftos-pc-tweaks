@@ -4,17 +4,11 @@ Quality of live tweaks for [craftos-pc] headless. \
 Tweaks:
 
 - Color Output
-  - TODO: Phoenix Support (because why not)
 - Disable word wrapping
-  - TODO: Phoenix Support (because why not)
 - Exit on completion
-- TODO: Unicode mapping
 
-Individual tweaks can currently be disabled by removing their lua script inside [./lua](./lua/).
+Individual tweaks can currently only be disabled by removing their lua script inside [./lua](./lua/).
 **Disabling some tweaks might break something because they are made to work together.**
-TODO: maybe allow disabling tweaks using CraftOS' [settings] API.
-
-TODO: craftos-pc-tweaks as CCEmuX CraftOS-PC plugin ?
 
 ## Usage
 
