@@ -7,6 +7,7 @@ Tweaks:
   - TODO: Phoenix Support (because why not)
 - Disable word wrapping
   - TODO: Phoenix Support (because why not)
+- Exit on completion
 - TODO: Unicode mapping
 
 Individual tweaks can currently be disabled by removing their lua script inside [./lua](./lua/).
